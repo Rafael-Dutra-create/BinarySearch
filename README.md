@@ -9,6 +9,15 @@ realizar buscas rápidas em arrays ordenados utilizando uma função de compara�
 desenvolvedores que buscam uma solução leve e de alto desempenho para operações de busca.
 
 
+## Installation
+
+To install this library, run the following command:
+
+```bash
+    npm install binary-search-lib   
+```
+
+
 ### Random Data Generation / Geração de Dados Aleatórios
 
 The data used in the tests is randomly generated to ensure the tests do not depend on fixed data and to validate the
