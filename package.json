@@ -1,0 +1,32 @@
+{
+  "name": "binary-search-lib",
+  "version": "1.0.0",
+  "description": "A simple and efficient binary search implementation for JavaScript and TypeScript projects. This library allows you to perform fast searches in sorted arrays using a customizable comparator function. Ideal for developers looking for a lightweight and high-performance solution for search operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "build": "tsc"
+  },
+  "keywords": [
+    "binary search",
+    "search algorithm",
+    "algorithm",
+    "data structures",
+    "binary tree",
+    "sorted data",
+    "javascript",
+    "typescript",
+    "performance",
+    "efficient search"
+  ],
+  "author": "Rafael Dutra",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rafael-Dutra-create/BinarySearch.git"
+  }
+}
