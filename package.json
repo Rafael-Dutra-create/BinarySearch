@@ -1,6 +1,6 @@
 {
   "name": "binary-search-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple and efficient binary search implementation for JavaScript and TypeScript projects. This library allows you to perform fast searches in sorted arrays using a customizable comparator function. Ideal for developers looking for a lightweight and high-performance solution for search operations.",
   "main": "index.js",
   "scripts": {
